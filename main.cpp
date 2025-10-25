@@ -31,7 +31,6 @@ int main() {
     while (fin1 >> colors[i++]);
     fin1.close();
 
-
     list<Goat> trip; 
     int selection; 
 
